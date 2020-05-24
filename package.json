@@ -1,0 +1,24 @@
+{
+  "name": "python-backend-react.js-frontend-experiment",
+  "version": "1.0.0",
+  "description": "pyhton backend react frontend experiment personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boyd-Thurston/Python-backend-React.js-frontend-experiment.git"
+  },
+  "author": "Boyd Thurston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boyd-Thurston/Python-backend-React.js-frontend-experiment/issues"
+  },
+  "homepage": "https://github.com/Boyd-Thurston/Python-backend-React.js-frontend-experiment#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
