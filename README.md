@@ -6,6 +6,7 @@ experimental test to take the knolwedge from my previous course mainly using pyt
 - Python
 - Django
 - Pip
+- Pipevn
 - Java Script
 - React
 - Redux
@@ -17,7 +18,7 @@ experimental test to take the knolwedge from my previous course mainly using pyt
 
 - [x] Research python packet managers and how to use them
 - [x] Research Django and how to intergrate it into my current stack
-- [ ] Draft up concept for test web app
+- [x] Draft up concept for test web app
 - [ ] Create basic js frontend
 - [ ] Create basic python backend
 - [ ] implement frontend test suite
@@ -26,5 +27,8 @@ experimental test to take the knolwedge from my previous course mainly using pyt
 - [ ] refeactor to more enhanced concept 
 - [ ] document learnings from experimental project
 
+## project concept
+
+create a fruit bowl with conditional rendering that allows you to toggal fruit images buy adding/removing fruit from the fruit bowl. Fruit that can be used and image url etc. will come from db and the current state of the fruit bowl will be saveable. This will be done by following and addapting a todo project located on https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react 
 
 
