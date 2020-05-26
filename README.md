@@ -5,8 +5,10 @@ experimental test to take the knolwedge from my previous course mainly using pyt
 ## intended technoligies 
 - Python
 - Django
+- Django-cors-headers
 - Pip
 - Pipevn
+
 - Java Script
 - React
 - Redux
