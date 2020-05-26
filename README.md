@@ -5,14 +5,17 @@ experimental test to take the knolwedge from my previous course mainly using pyt
 ## intended technoligies 
 - Python
 - Django
+- Djangorestframework
 - Django-cors-headers
 - Pip
 - Pipevn
 
 - Java Script
 - React
-- Redux
+- React-redux
+- React-router-dom
 - Node
+
 - HTML
 - CSS
 
