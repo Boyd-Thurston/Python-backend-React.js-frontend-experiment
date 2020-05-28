@@ -7,10 +7,11 @@ experimental test to take the knolwedge from my previous course mainly using pyt
 - Django
 - Djangorestframework
 - Django-cors-headers
-- Pip
+- Pip3
 - Pipevn
 
 - Java Script
+- Express
 - React
 - React-redux
 - React-router-dom
@@ -25,7 +26,7 @@ experimental test to take the knolwedge from my previous course mainly using pyt
 - [x] Research Django and how to intergrate it into my current stack
 - [x] Draft up concept for test web app
 - [ ] Create basic js frontend
-- [ ] Create basic python backend
+- [x] Create basic python backend
 - [ ] implement frontend test suite
 - [ ] research python test suite
 - [ ] enhance basic concept
