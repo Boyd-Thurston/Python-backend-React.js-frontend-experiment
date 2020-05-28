@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { createStore } from 'react-redux'
+import { createStore } from 'redux'
 
 import App from './components/App'
 import reducers from './reducers'
@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
   store.subscribe(render)
 })
 
-document.addEventListener('DOMContentLoaded', () => {
+function render () {
   ReactDOM.render(
-    <App />,
+    <App store={store} />,
     document.getElementById('app')
   )
-})
+}

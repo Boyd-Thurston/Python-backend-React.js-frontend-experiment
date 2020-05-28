@@ -1,4 +1,6 @@
-import { combineReducers } from 'react-redux'
+import { combineReducers } from 'redux'
+
+import fruitbowl from './fruitbowl'
 
 const reducer = combineReducers({
   fruitbowl,
