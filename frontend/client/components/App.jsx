@@ -1,9 +1,12 @@
 import React from 'react'
+import { connect } from 'react-redux'
+
+import { fetchFruit } from '../actions'
 
 export class App extends React.Component {
 
   componentDidMount(){
-    
+    this.props.dispatch(fetchFruit())
   }
 
   render(){
@@ -13,4 +16,4 @@ export class App extends React.Component {
   }
 }
 
-export default App
+export default connect()(App)

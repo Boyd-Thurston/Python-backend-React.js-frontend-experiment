@@ -1,9 +1,9 @@
 import { combineReducers } from 'redux'
 
-import fruitbowl from './fruitbowl'
+import fruit from './fruit'
 
 const reducer = combineReducers({
-  fruitbowl,
+  fruit,
 })
 
 export default reducer
